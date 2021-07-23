@@ -23,11 +23,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I’m currently Developing/Recreating my Android App **Cheftastic**<br>
 ✔ See all my projects [here](https://dhawan.netlify.app/#projects)<br>
-✔ I’m currently learning **NodeJS** & **React-Redux**<br>
 ✔ I'm quite good at **React Native**, **ReactJs**, **Android**, **UI/UX**.<br>
-✔ I’m currently working as an Intern for **Mobile App Development**<br>
 ✔ Have a look over My personal [Portfolio Website](https://dhawan.netlify.app/)<br>
 ✔ Fun fact : *Coffee Solve my errors sometimes*<br><br><br><br>
  
